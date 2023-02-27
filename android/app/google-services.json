@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32389738652",
+    "project_id": "e-learning-shajol",
+    "storage_bucket": "e-learning-shajol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32389738652:android:58f739791c2263b18a3d59",
+        "android_client_info": {
+          "package_name": "com.example.e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32389738652-hfbe12jovh8b81o31k1i8el9hb2da9m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6leFweaHdMoVjsiuH8dIPnjdN2MVhIOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32389738652-hfbe12jovh8b81o31k1i8el9hb2da9m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
